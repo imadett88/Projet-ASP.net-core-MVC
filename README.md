@@ -3,7 +3,7 @@ Is Simple Project with ASP.net Core MVC and also Bootstrap for design and Sql Se
 
 
 
-Description : ce projet est réalisé par Imad Ettamen et Yassine Bahou, c'est un site e-commerce simple avec deux parties administration et client pour en la faciliter d'utilisation . En utilisant les techniques suivantes : ASP.net, C#, Bootstrap, Git & Github, Sqlserver
+Description : ce projet est réalisé par Imad Ettamen et Yassine Bahou, c'est un site e-commerce simple avec deux parties administration et client pour la faciliter d'utilisation . En utilisant les techniques suivantes : ASP.net, C#, Bootstrap, Git & Github, Sqlserver
 
 
 

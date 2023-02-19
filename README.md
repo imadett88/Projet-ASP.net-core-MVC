@@ -8,9 +8,7 @@ Description : ce projet est réalisé par Imad Ettamen ,Yassine Bahou et Mohamme
 
 
 
-présentation video du projet :
 
-https://user-images.githubusercontent.com/83021588/219706559-882df457-fcae-4a4a-97eb-247d96b48075.mp4
 
 
 
